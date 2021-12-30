@@ -1,0 +1,4 @@
+Hello! This is first thing that i write in file.
+I Love PythonThis is Updating function in file handeling.File is now update.
+This is Updating function in file handeling.
+File is now update.
